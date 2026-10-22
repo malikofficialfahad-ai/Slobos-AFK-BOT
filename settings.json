@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Sporky's dad",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "deathsmp-t2V2.aternos.me
+",
+    "port": 13161,
     "version": "1.21.1"
   },
   "position": {
